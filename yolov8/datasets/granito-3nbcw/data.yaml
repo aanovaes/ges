@@ -1,0 +1,37 @@
+
+# Configuração do Dataset GRANITO para Treinamento com YOLOv8
+# Este arquivo YAML configura o acesso e uso do dataset GRANITO para treinamento, validação e teste de um modelo YOLOv8.
+# A estrutura do diretório assume que as imagens estão organizadas dentro do diretório 'granito-3nbcw' em '/Users/alex/granito/yolov8/datasets'.
+
+# Estrutura de Diretórios Esperada:
+# ┌─ datasets
+# │  └─ granito-3nbcw
+# │     ├─ imagens
+# │     ├─ train
+# │     ├─ valid
+# │     └─ test
+
+# Caminhos para conjuntos de dados
+path: /Users/alex/granito/yolov8/datasets/granito-3nbcw/train
+train: train
+val: valid
+test: test
+
+# Definição das Classes de Objetos
+names:
+  0: chapa
+  1: furo
+  2: veio
+
+nc: 3  # Número de classes
+
+detection:
+  conf_thres: 0.3
+  iou_thres: 0.5
+
+roboflow:
+  license: Public Domain
+  project: granito-3nbcw
+  url: https://universe.roboflow.com/alex-novaes/granito-3nbcw/dataset/1
+  version: 1
+  workspace: alex-novaes
