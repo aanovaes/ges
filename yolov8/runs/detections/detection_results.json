@@ -1,0 +1,611 @@
+{
+    "2_1_033733_015_PRETO-SAO-GABRIEL_jpg.rf.a41f2e0aca1923c5f5409bf905f233b2.jpg": {
+        "results": [
+            {
+                "id": "veio-2",
+                "quadrant": "B2",
+                "class": "veio",
+                "confidence": 0.5143671035766602,
+                "penalty": 0.2167762058594185,
+                "coordinates": {
+                    "x1": 361,
+                    "y1": 229,
+                    "x2": 551,
+                    "y2": 369
+                },
+                "quadrants": {
+                    "B2": 0.19115517433441015,
+                    "C2": 0.0810961345661134,
+                    "B3": 0.5109724852400579,
+                    "C3": 0.2167762058594185
+                }
+            },
+            {
+                "id": "veio-2",
+                "quadrant": "B3",
+                "class": "veio",
+                "confidence": 0.5143671035766602,
+                "penalty": 0.5109724852400579,
+                "coordinates": {
+                    "x1": 361,
+                    "y1": 229,
+                    "x2": 551,
+                    "y2": 369
+                },
+                "quadrants": {
+                    "B2": 0.19115517433441015,
+                    "C2": 0.0810961345661134,
+                    "B3": 0.5109724852400579,
+                    "C3": 0.2167762058594185
+                }
+            },
+            {
+                "id": "veio-1",
+                "quadrant": "C1",
+                "class": "veio",
+                "confidence": 0.5189329385757446,
+                "penalty": 0.24918723215605143,
+                "coordinates": {
+                    "x1": 140,
+                    "y1": 396,
+                    "x2": 341,
+                    "y2": 529
+                },
+                "quadrants": {
+                    "C1": 0.18874685976060293,
+                    "D1": 0.4597679917245456,
+                    "C2": 0.10229791635880006,
+                    "D2": 0.24918723215605143
+                }
+            },
+            {
+                "id": "veio-1",
+                "quadrant": "C2",
+                "class": "veio",
+                "confidence": 0.5189329385757446,
+                "penalty": 0.10229791635880006,
+                "coordinates": {
+                    "x1": 140,
+                    "y1": 396,
+                    "x2": 341,
+                    "y2": 529
+                },
+                "quadrants": {
+                    "C1": 0.18874685976060293,
+                    "D1": 0.4597679917245456,
+                    "C2": 0.10229791635880006,
+                    "D2": 0.24918723215605143
+                }
+            },
+            {
+                "id": "veio-2",
+                "quadrant": "C2",
+                "class": "veio",
+                "confidence": 0.5143671035766602,
+                "penalty": 0.0810961345661134,
+                "coordinates": {
+                    "x1": 361,
+                    "y1": 229,
+                    "x2": 551,
+                    "y2": 369
+                },
+                "quadrants": {
+                    "B2": 0.19115517433441015,
+                    "C2": 0.0810961345661134,
+                    "B3": 0.5109724852400579,
+                    "C3": 0.2167762058594185
+                }
+            },
+            {
+                "id": "veio-2",
+                "quadrant": "C3",
+                "class": "veio",
+                "confidence": 0.5143671035766602,
+                "penalty": 0.2167762058594185,
+                "coordinates": {
+                    "x1": 361,
+                    "y1": 229,
+                    "x2": 551,
+                    "y2": 369
+                },
+                "quadrants": {
+                    "B2": 0.19115517433441015,
+                    "C2": 0.0810961345661134,
+                    "B3": 0.5109724852400579,
+                    "C3": 0.2167762058594185
+                }
+            },
+            {
+                "id": "veio-1",
+                "quadrant": "D1",
+                "class": "veio",
+                "confidence": 0.5189329385757446,
+                "penalty": 0.4597679917245456,
+                "coordinates": {
+                    "x1": 140,
+                    "y1": 396,
+                    "x2": 341,
+                    "y2": 529
+                },
+                "quadrants": {
+                    "C1": 0.18874685976060293,
+                    "D1": 0.4597679917245456,
+                    "C2": 0.10229791635880006,
+                    "D2": 0.24918723215605143
+                }
+            },
+            {
+                "id": "veio-1",
+                "quadrant": "D2",
+                "class": "veio",
+                "confidence": 0.5189329385757446,
+                "penalty": 0.24918723215605143,
+                "coordinates": {
+                    "x1": 140,
+                    "y1": 396,
+                    "x2": 341,
+                    "y2": 529
+                },
+                "quadrants": {
+                    "C1": 0.18874685976060293,
+                    "D1": 0.4597679917245456,
+                    "C2": 0.10229791635880006,
+                    "D2": 0.24918723215605143
+                }
+            }
+        ],
+        "score": "97.82%",
+        "bloco": "033733",
+        "chapa": "015",
+        "pedra": "PRETO-SAO-GABRIEL",
+        "output_image": "runs/detections/images/result_2_1_033733_015_PRETO-SAO-GABRIEL_jpg.rf.a41f2e0aca1923c5f5409bf905f233b2.jpg",
+        "cropped_image": "runs/detections/images/cropped_2_1_033733_015_PRETO-SAO-GABRIEL_jpg.rf.a41f2e0aca1923c5f5409bf905f233b2.jpg"
+    },
+    "2_1_009046_014_MARROM ABSOLUTO.jpg": {
+        "results": [],
+        "score": "100.00%",
+        "bloco": "009046",
+        "chapa": "014",
+        "pedra": "MARROM",
+        "output_image": "runs/detections/images/result_2_1_009046_014_MARROM ABSOLUTO.jpg",
+        "cropped_image": "runs/detections/images/cropped_2_1_009046_014_MARROM ABSOLUTO.jpg"
+    },
+    "2_1_032801_020_BRANCO-DALLAS_jpg.rf.8d30d13e8a157557194bdea73104d0b6.jpg": {
+        "results": [
+            {
+                "id": "veio1",
+                "quadrant": "A1",
+                "class": "veio",
+                "confidence": 0.3663376569747925,
+                "penalty": 0.7863247863247863,
+                "coordinates": {
+                    "x1": 115,
+                    "y1": 186,
+                    "x2": 185,
+                    "y2": 302
+                },
+                "quadrants": {
+                    "A1": 0.21367521367521367,
+                    "B1": 0.7863247863247863
+                }
+            },
+            {
+                "id": "veio1",
+                "quadrant": "B1",
+                "class": "veio",
+                "confidence": 0.3663376569747925,
+                "penalty": 0.7863247863247863,
+                "coordinates": {
+                    "x1": 115,
+                    "y1": 186,
+                    "x2": 185,
+                    "y2": 302
+                },
+                "quadrants": {
+                    "A1": 0.21367521367521367,
+                    "B1": 0.7863247863247863
+                }
+            }
+        ],
+        "score": "99.00%",
+        "bloco": "032801",
+        "chapa": "020",
+        "pedra": "BRANCO-DALLAS",
+        "output_image": "runs/detections/images/result_2_1_032801_020_BRANCO-DALLAS_jpg.rf.8d30d13e8a157557194bdea73104d0b6.jpg",
+        "cropped_image": "runs/detections/images/cropped_2_1_032801_020_BRANCO-DALLAS_jpg.rf.8d30d13e8a157557194bdea73104d0b6.jpg"
+    },
+    "2_1_032801_025_BRANCO-DALLAS_jpg.rf.73c6b7946d1ce14e7b5b5c96464eac0f.jpg": {
+        "results": [],
+        "score": "100.00%",
+        "bloco": "032801",
+        "chapa": "025",
+        "pedra": "BRANCO-DALLAS",
+        "output_image": "runs/detections/images/result_2_1_032801_025_BRANCO-DALLAS_jpg.rf.73c6b7946d1ce14e7b5b5c96464eac0f.jpg",
+        "cropped_image": "runs/detections/images/cropped_2_1_032801_025_BRANCO-DALLAS_jpg.rf.73c6b7946d1ce14e7b5b5c96464eac0f.jpg"
+    },
+    "2_1_032801_076_BRANCO-DALLAS_jpg.rf.7d4ff11e0a4d21597aca7e5f3fb91b42.jpg": {
+        "results": [],
+        "score": "100.00%",
+        "bloco": "032801",
+        "chapa": "076",
+        "pedra": "BRANCO-DALLAS",
+        "output_image": "runs/detections/images/result_2_1_032801_076_BRANCO-DALLAS_jpg.rf.7d4ff11e0a4d21597aca7e5f3fb91b42.jpg",
+        "cropped_image": "runs/detections/images/cropped_2_1_032801_076_BRANCO-DALLAS_jpg.rf.7d4ff11e0a4d21597aca7e5f3fb91b42.jpg"
+    },
+    "2_1_032809_029_BRANCO-DALLAS_jpg.rf.29bc032c68b33cfe3d385709c46a72ca.jpg": {
+        "results": [],
+        "score": "100.00%",
+        "bloco": "032809",
+        "chapa": "029",
+        "pedra": "BRANCO-DALLAS",
+        "output_image": "runs/detections/images/result_2_1_032809_029_BRANCO-DALLAS_jpg.rf.29bc032c68b33cfe3d385709c46a72ca.jpg",
+        "cropped_image": "runs/detections/images/cropped_2_1_032809_029_BRANCO-DALLAS_jpg.rf.29bc032c68b33cfe3d385709c46a72ca.jpg"
+    },
+    "2_1_032809_072_BRANCO-DALLAS_jpg.rf.922309f4dcfd051d44e3fc73c759b331.jpg": {
+        "results": [],
+        "score": "100.00%",
+        "bloco": "032809",
+        "chapa": "072",
+        "pedra": "BRANCO-DALLAS",
+        "output_image": "runs/detections/images/result_2_1_032809_072_BRANCO-DALLAS_jpg.rf.922309f4dcfd051d44e3fc73c759b331.jpg",
+        "cropped_image": "runs/detections/images/cropped_2_1_032809_072_BRANCO-DALLAS_jpg.rf.922309f4dcfd051d44e3fc73c759b331.jpg"
+    },
+    "2_1_032799_069_BRANCO-DALLAS_jpg.rf.17198b6f14c918606bebafd72c942765.jpg": {
+        "results": [],
+        "score": "100.00%",
+        "bloco": "032799",
+        "chapa": "069",
+        "pedra": "BRANCO-DALLAS",
+        "output_image": "runs/detections/images/result_2_1_032799_069_BRANCO-DALLAS_jpg.rf.17198b6f14c918606bebafd72c942765.jpg",
+        "cropped_image": "runs/detections/images/cropped_2_1_032799_069_BRANCO-DALLAS_jpg.rf.17198b6f14c918606bebafd72c942765.jpg"
+    },
+    "2_1_032799_046_BRANCO-DALLAS_jpg.rf.e465eee7e390e0a4b510f76155e3664f.jpg": {
+        "results": [
+            {
+                "id": "Veio 1",
+                "quadrant": "B3",
+                "class": "veio",
+                "confidence": 0.5354372262954712,
+                "penalty": 1.0,
+                "coordinates": {
+                    "x1": 539,
+                    "y1": 244,
+                    "x2": 607,
+                    "y2": 357
+                },
+                "quadrants": {
+                    "B3": 1.0
+                }
+            }
+        ],
+        "score": "99.00%",
+        "bloco": "032799",
+        "chapa": "046",
+        "pedra": "BRANCO-DALLAS",
+        "output_image": "runs/detections/images/result_2_1_032799_046_BRANCO-DALLAS_jpg.rf.e465eee7e390e0a4b510f76155e3664f.jpg",
+        "cropped_image": "runs/detections/images/cropped_2_1_032799_046_BRANCO-DALLAS_jpg.rf.e465eee7e390e0a4b510f76155e3664f.jpg"
+    },
+    "2_1_005260_001_AMARELO-ORNAMENTAL_jpg.rf.4bf39c42c960ffa3f29d71fa52a1770c.jpg": {
+        "results": [],
+        "score": "100.00%",
+        "bloco": "005260",
+        "chapa": "001",
+        "pedra": "AMARELO-ORNAMENTAL",
+        "output_image": "runs/detections/images/result_2_1_005260_001_AMARELO-ORNAMENTAL_jpg.rf.4bf39c42c960ffa3f29d71fa52a1770c.jpg",
+        "cropped_image": "runs/detections/images/cropped_2_1_005260_001_AMARELO-ORNAMENTAL_jpg.rf.4bf39c42c960ffa3f29d71fa52a1770c.jpg"
+    },
+    "2_1_033733_003_PRETO-SAO-GABRIEL_jpg.rf.a2f18b20eb81e56626b14b353ee37bde.jpg": {
+        "results": [
+            {
+                "id": "veio-3",
+                "quadrant": "A2",
+                "class": "veio",
+                "confidence": 0.33739176392555237,
+                "penalty": 0.09662353836573721,
+                "coordinates": {
+                    "x1": 280,
+                    "y1": 89,
+                    "x2": 428,
+                    "y2": 282
+                },
+                "quadrants": {
+                    "A2": 0.4739500449733619,
+                    "B2": 0.1971908946239535,
+                    "A3": 0.23223552203694733,
+                    "B3": 0.09662353836573721
+                }
+            },
+            {
+                "id": "veio-3",
+                "quadrant": "A3",
+                "class": "veio",
+                "confidence": 0.33739176392555237,
+                "penalty": 0.23223552203694733,
+                "coordinates": {
+                    "x1": 280,
+                    "y1": 89,
+                    "x2": 428,
+                    "y2": 282
+                },
+                "quadrants": {
+                    "A2": 0.4739500449733619,
+                    "B2": 0.1971908946239535,
+                    "A3": 0.23223552203694733,
+                    "B3": 0.09662353836573721
+                }
+            },
+            {
+                "id": "veio-1",
+                "quadrant": "B1",
+                "class": "veio",
+                "confidence": 0.5883691906929016,
+                "penalty": 0.007087207841166122,
+                "coordinates": {
+                    "x1": 122,
+                    "y1": 337,
+                    "x2": 236,
+                    "y2": 509
+                },
+                "quadrants": {
+                    "B1": 0.18336265393314904,
+                    "C1": 0.8079416938929379,
+                    "B2": 0.0016084443327469213,
+                    "C2": 0.007087207841166122
+                }
+            },
+            {
+                "id": "veio-2",
+                "quadrant": "B1",
+                "class": "veio",
+                "confidence": 0.5469132661819458,
+                "penalty": 0.34591194968553457,
+                "coordinates": {
+                    "x1": 123,
+                    "y1": 320,
+                    "x2": 334,
+                    "y2": 508
+                },
+                "quadrants": {
+                    "B1": 0.13819007686932216,
+                    "C1": 0.39482879105520613,
+                    "B2": 0.12106918238993711,
+                    "C2": 0.34591194968553457
+                }
+            },
+            {
+                "id": "veio-4",
+                "quadrant": "B1",
+                "class": "veio",
+                "confidence": 0.3058874309062958,
+                "penalty": 0.245090489025799,
+                "coordinates": {
+                    "x1": 134,
+                    "y1": 307,
+                    "x2": 292,
+                    "y2": 502
+                },
+                "quadrants": {
+                    "B1": 0.20292645360030806,
+                    "C1": 0.4385829803619561,
+                    "B2": 0.11340007701193686,
+                    "C2": 0.245090489025799
+                }
+            },
+            {
+                "id": "veio-1",
+                "quadrant": "B2",
+                "class": "veio",
+                "confidence": 0.5883691906929016,
+                "penalty": 0.0016084443327469213,
+                "coordinates": {
+                    "x1": 122,
+                    "y1": 337,
+                    "x2": 236,
+                    "y2": 509
+                },
+                "quadrants": {
+                    "B1": 0.18336265393314904,
+                    "C1": 0.8079416938929379,
+                    "B2": 0.0016084443327469213,
+                    "C2": 0.007087207841166122
+                }
+            },
+            {
+                "id": "veio-2",
+                "quadrant": "B2",
+                "class": "veio",
+                "confidence": 0.5469132661819458,
+                "penalty": 0.12106918238993711,
+                "coordinates": {
+                    "x1": 123,
+                    "y1": 320,
+                    "x2": 334,
+                    "y2": 508
+                },
+                "quadrants": {
+                    "B1": 0.13819007686932216,
+                    "C1": 0.39482879105520613,
+                    "B2": 0.12106918238993711,
+                    "C2": 0.34591194968553457
+                }
+            },
+            {
+                "id": "veio-3",
+                "quadrant": "B2",
+                "class": "veio",
+                "confidence": 0.33739176392555237,
+                "penalty": 0.1971908946239535,
+                "coordinates": {
+                    "x1": 280,
+                    "y1": 89,
+                    "x2": 428,
+                    "y2": 282
+                },
+                "quadrants": {
+                    "A2": 0.4739500449733619,
+                    "B2": 0.1971908946239535,
+                    "A3": 0.23223552203694733,
+                    "B3": 0.09662353836573721
+                }
+            },
+            {
+                "id": "veio-4",
+                "quadrant": "B2",
+                "class": "veio",
+                "confidence": 0.3058874309062958,
+                "penalty": 0.11340007701193686,
+                "coordinates": {
+                    "x1": 134,
+                    "y1": 307,
+                    "x2": 292,
+                    "y2": 502
+                },
+                "quadrants": {
+                    "B1": 0.20292645360030806,
+                    "C1": 0.4385829803619561,
+                    "B2": 0.11340007701193686,
+                    "C2": 0.245090489025799
+                }
+            },
+            {
+                "id": "veio-3",
+                "quadrant": "B3",
+                "class": "veio",
+                "confidence": 0.33739176392555237,
+                "penalty": 0.09662353836573721,
+                "coordinates": {
+                    "x1": 280,
+                    "y1": 89,
+                    "x2": 428,
+                    "y2": 282
+                },
+                "quadrants": {
+                    "A2": 0.4739500449733619,
+                    "B2": 0.1971908946239535,
+                    "A3": 0.23223552203694733,
+                    "B3": 0.09662353836573721
+                }
+            },
+            {
+                "id": "veio-1",
+                "quadrant": "C1",
+                "class": "veio",
+                "confidence": 0.5883691906929016,
+                "penalty": 0.8079416938929379,
+                "coordinates": {
+                    "x1": 122,
+                    "y1": 337,
+                    "x2": 236,
+                    "y2": 509
+                },
+                "quadrants": {
+                    "B1": 0.18336265393314904,
+                    "C1": 0.8079416938929379,
+                    "B2": 0.0016084443327469213,
+                    "C2": 0.007087207841166122
+                }
+            },
+            {
+                "id": "veio-2",
+                "quadrant": "C1",
+                "class": "veio",
+                "confidence": 0.5469132661819458,
+                "penalty": 0.39482879105520613,
+                "coordinates": {
+                    "x1": 123,
+                    "y1": 320,
+                    "x2": 334,
+                    "y2": 508
+                },
+                "quadrants": {
+                    "B1": 0.13819007686932216,
+                    "C1": 0.39482879105520613,
+                    "B2": 0.12106918238993711,
+                    "C2": 0.34591194968553457
+                }
+            },
+            {
+                "id": "veio-4",
+                "quadrant": "C1",
+                "class": "veio",
+                "confidence": 0.3058874309062958,
+                "penalty": 0.4385829803619561,
+                "coordinates": {
+                    "x1": 134,
+                    "y1": 307,
+                    "x2": 292,
+                    "y2": 502
+                },
+                "quadrants": {
+                    "B1": 0.20292645360030806,
+                    "C1": 0.4385829803619561,
+                    "B2": 0.11340007701193686,
+                    "C2": 0.245090489025799
+                }
+            },
+            {
+                "id": "veio-1",
+                "quadrant": "C2",
+                "class": "veio",
+                "confidence": 0.5883691906929016,
+                "penalty": 0.007087207841166122,
+                "coordinates": {
+                    "x1": 122,
+                    "y1": 337,
+                    "x2": 236,
+                    "y2": 509
+                },
+                "quadrants": {
+                    "B1": 0.18336265393314904,
+                    "C1": 0.8079416938929379,
+                    "B2": 0.0016084443327469213,
+                    "C2": 0.007087207841166122
+                }
+            },
+            {
+                "id": "veio-2",
+                "quadrant": "C2",
+                "class": "veio",
+                "confidence": 0.5469132661819458,
+                "penalty": 0.34591194968553457,
+                "coordinates": {
+                    "x1": 123,
+                    "y1": 320,
+                    "x2": 334,
+                    "y2": 508
+                },
+                "quadrants": {
+                    "B1": 0.13819007686932216,
+                    "C1": 0.39482879105520613,
+                    "B2": 0.12106918238993711,
+                    "C2": 0.34591194968553457
+                }
+            },
+            {
+                "id": "veio-4",
+                "quadrant": "C2",
+                "class": "veio",
+                "confidence": 0.3058874309062958,
+                "penalty": 0.245090489025799,
+                "coordinates": {
+                    "x1": 134,
+                    "y1": 307,
+                    "x2": 292,
+                    "y2": 502
+                },
+                "quadrants": {
+                    "B1": 0.20292645360030806,
+                    "C1": 0.4385829803619561,
+                    "B2": 0.11340007701193686,
+                    "C2": 0.245090489025799
+                }
+            }
+        ],
+        "score": "95.57%",
+        "bloco": "033733",
+        "chapa": "003",
+        "pedra": "PRETO-SAO-GABRIEL",
+        "output_image": "runs/detections/images/result_2_1_033733_003_PRETO-SAO-GABRIEL_jpg.rf.a2f18b20eb81e56626b14b353ee37bde.jpg",
+        "cropped_image": "runs/detections/images/cropped_2_1_033733_003_PRETO-SAO-GABRIEL_jpg.rf.a2f18b20eb81e56626b14b353ee37bde.jpg"
+    }
+}
